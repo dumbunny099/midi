@@ -34,7 +34,7 @@ mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 music21==5.7.2
-numpy==1.18.1
+numpy==1.22.0
 oauth2client==3.0.0
 oauthlib==3.1.0
 opt-einsum==3.1.0
